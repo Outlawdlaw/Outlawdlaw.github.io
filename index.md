@@ -24,4 +24,6 @@ This group of scripts ensures that the user types in the correct information as 
 
 ### Login Page
 
+A simple login page.
+
 [Login](login.md)
