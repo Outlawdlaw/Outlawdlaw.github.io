@@ -1,4 +1,4 @@
-[Back to Home](index.md)
+[Back to Home](../index.md)
 
 # Exploded View
 
@@ -175,4 +175,4 @@ public class DrillDownComponent_ExplodedView : MonoBehaviour
 }
 ```
 
-[Back to Home](index.md)
+[Back to Home](../index.md)

@@ -1,4 +1,4 @@
-[Back to Home](index.md)
+[Back to Home](../index.md)
 
 # Login Page
 
@@ -138,4 +138,4 @@ public class LogInPage : MonoBehaviour
 }
 ```
 
-[Back to Home](index.md)
+[Back to Home](../index.md)

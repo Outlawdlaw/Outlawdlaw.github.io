@@ -1,4 +1,4 @@
-[Back to Home](index.md)
+[Back to Home](../index.md)
 
 # Input Field System
 
@@ -192,4 +192,4 @@ public class InputFieldValidation : MonoBehaviour
 
 ### 
 
-[Back to Home](index.md)
+[Back to Home](../index.md)

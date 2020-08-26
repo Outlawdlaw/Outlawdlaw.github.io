@@ -1,4 +1,4 @@
-[Back to Home](index.md)
+[Back to Home](../index.md)
 
 # Text To Speech Handler
 
@@ -84,4 +84,4 @@ public class TextToSpeechHandler : MonoBehaviour
 }
 ```
 
-[Back to Home](index.md)
+[Back to Home](../index.md)

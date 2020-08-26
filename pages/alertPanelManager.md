@@ -1,4 +1,4 @@
-[Back to Home](index.md)
+[Back to Home](../index.md)
 
 # Alert Panel Manager
 
@@ -208,4 +208,4 @@ public class AlertPanelManager : MonoBehaviour
 }
 ```
 
-[Back to Home](index.md)
+[Back to Home](../index.md)
