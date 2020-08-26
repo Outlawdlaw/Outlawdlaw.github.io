@@ -11,3 +11,7 @@ The items listed below may or may not be complete scripts or projects due to the
 I created this after seeing the Unreal Engine Product Viewer Template - we needed something similar but for Unity. It's fairly basic, and the system can be improved, but it got the job done at the time.
 
 [Exploded View](/explodedView.md)
+
+### Alert Panel Manager
+
+[Alert Panel Manager](alertPanaleManager.md)
