@@ -81,7 +81,7 @@ public class ExplodedViewEditor : Editor
 
 Exploded View Implementation:
 
-```
+``` C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
