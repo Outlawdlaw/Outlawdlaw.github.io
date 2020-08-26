@@ -1,3 +1,5 @@
+[Back to Home](index.md)
+
 # Login Page
 
 A simple login page.
@@ -135,3 +137,5 @@ public class LogInPage : MonoBehaviour
     }
 }
 ```
+
+[Back to Home](index.md)
