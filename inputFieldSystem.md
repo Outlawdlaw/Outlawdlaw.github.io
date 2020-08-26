@@ -2,7 +2,7 @@
 
 # Input Field System
 
-This group of scripts ensures that the user types in the correct information as per the type designated to the InputField. It’s not complex, but it’s definitely a necessity for log in and sign up pages within applications. This was done for a mobile app with Augmented Reailty functionality, among other things.
+This script ensures that the user types in the correct information as per the type designated to the InputField. It’s not complex, but it’s definitely a necessity for log in and sign up pages within applications. This was done for a mobile app with Augmented Reailty functionality, among other things.
 
 ### Input Field Validation:
 
