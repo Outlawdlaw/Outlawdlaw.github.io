@@ -4,7 +4,7 @@ My name is Dillan Lawless and I currently work as the Lead XR Developer at the A
 
 ## Code Snippets
 
-The items listed below may or may not be complete scripts or projects due to the nature of my current work contract.
+The items listed below may or may not be complete scripts or projects due to the nature of my current work contract...
 
 ### Exploded View
 
