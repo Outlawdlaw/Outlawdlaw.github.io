@@ -14,7 +14,9 @@ I created this after seeing the Unreal Engine Product Viewer Template - we neede
 
 ### Alert Panel Manager
 
-[Alert Panel Manager](alertPanaleManager.md)
+This was a script to handle incoming alerts from PTC Thingworx and an Azure back-end. It's only one piece of the complete system, and handled the display of Alert Boxes on a panel on the side of the application window.
+
+[Alert Panel Manager](alertPanelManager.md)
 
 ### Input Field Validation System
 
