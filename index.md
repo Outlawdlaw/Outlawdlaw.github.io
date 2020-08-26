@@ -2,7 +2,7 @@
 
 My name is Dillan Lawless and I currently work as the Lead XR Developer at the Accenture Liquid Studio in South Africa. I have over two and a half years of professional Unity experience, along with some UE4, and have developed programs for various VR, MR, AR, and mobile devices - as well as desktop, of course.
 
-## Code Snippets
+## Unity Code Snippets
 
 The items listed below may or may not be complete scripts or projects due to the nature of my current work contract...
 
