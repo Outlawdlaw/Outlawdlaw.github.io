@@ -1,3 +1,9 @@
+# Exploded View
+
+I created this after seeing the Unreal Engine Product Viewer Template - we needed something similar but for Unity. It’s fairly basic, and the system can be improved, but it got the job done at the time.
+
+These scripts allow an object with multiple children to be "exploded" into various positions - allowing for easier inspection of the individual meshes. This is used in Digital Twins and Product Viewers, for example.
+
 ### Custom Editor:
 
 ``` C#
