@@ -27,3 +27,9 @@ This group of scripts ensures that the user types in the correct information as 
 A simple login page.
 
 [Login](login.md)
+
+### Text To Speech Handler
+
+This was a project done with AWS Lex, and at the time getting the speech response from Lex into Unity was a bit of a challenge, so this was used to convert the response string into an audio file instead.
+
+[Text To Speech Handler](textToSpeechHandler.md)
